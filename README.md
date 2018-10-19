@@ -1,5 +1,6 @@
 # Code4Life Post-mortem 
 https://www.codingame.com/multiplayer/bot-programming/code4life
+
 #93/2366
 
  I am grateful to codingame.com that introduced a very interesting game. I really enjoyed and dedicated it for a week. I basically implemented heuristics with FSM based.
